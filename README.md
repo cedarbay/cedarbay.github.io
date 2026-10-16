@@ -1,4 +1,4 @@
-# CedarBayInc
+# Cedar Bay Inc
 
 面向软件定制服务的中英双语门户页，采用原生 HTML、CSS、JavaScript，无第三方运行依赖。发布时仅将网站文件打包到 `dist/`，可部署到 GitHub Pages 等静态托管服务。
 

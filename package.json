@@ -2,7 +2,7 @@
   "name": "cedarbay-waitlist",
   "version": "1.1.0",
   "private": true,
-  "description": "CedarBayInc bilingual custom software and project waitlist website",
+  "description": "Cedar Bay Inc bilingual custom software and project waitlist website",
   "scripts": {
     "dev": "node scripts/serve.mjs",
     "check": "node --check app.js && node --check scripts/serve.mjs && node --check scripts/build.mjs",

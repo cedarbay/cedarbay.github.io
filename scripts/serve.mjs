@@ -25,4 +25,4 @@ const server = createServer(async (request, response) => {
     response.writeHead(404).end('Not found');
   }
 });
-server.listen(port, '127.0.0.1', () => process.stdout.write(`CedarBayInc preview: http://127.0.0.1:${port}\n`));
+server.listen(port, '127.0.0.1', () => process.stdout.write(`Cedar Bay Inc preview: http://127.0.0.1:${port}\n`));
