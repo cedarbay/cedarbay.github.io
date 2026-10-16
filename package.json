@@ -1,6 +1,6 @@
 {
   "name": "cedarbay-waitlist",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "description": "Cedar Bay Inc bilingual custom software and project waitlist website",
   "scripts": {
